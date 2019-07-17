@@ -22,7 +22,7 @@ RANKS = '2 3 4 5 6 7 8 9 10 J Q K A'.split()
 class Deck:
     """
     This is the Deck Class. This object will create a deck of cards to initiate
-    play. You can then use this Deck list of cards to split in half and give to
+    play. We can then use this Deck list of cards to split in half and give to
     the players.
     """
     def __init__(self):
